@@ -1,0 +1,4 @@
+.idea
+DemoExpress/node_modules
+DemoExpress/app.publish/*
+DemoExpress/obj/*
